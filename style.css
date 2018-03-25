@@ -1,0 +1,27 @@
+.even {
+    background-color: yellow; 
+}
+
+.odd {
+    background-color: green; 
+}
+
+.error {
+    color: red; 
+}
+
+
+form.grid-info {
+    text-align: center;
+    padding: 100px;
+}
+
+.results {
+    margin-top: 50px;
+    text-align: center; 
+}
+
+
+table {
+    margin: 0 auto;
+}
